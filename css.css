@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+    background-color: paleturquoise;
+    border: 3px;
+    border-style: solid;
+}
+h1 {
+    color: crimson;
+    border-width: 4em;
+}
+h2 {
+    border-style: outset;
+    border-width: 3em;
+}
+h3 {
+    border-style: ridge;
+    color: darkblue;
+    border-width: 5em;
+}
+h4 {
+    border-style: double;
+    border-width: 2em;
+}
+h5 {
+    border-style: groove;
+    color: chocolate;
+    border-width: 6em;
+}
+h6 {
+    border-style: dashed;
+    border-width: 1em;
+}
